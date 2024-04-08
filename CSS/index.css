@@ -20,8 +20,22 @@ color: aliceblue;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 200px;
 background-color: red;
+}
+section{
+    border:solid springgreen;
+    display: flex;
+    justify-content: space-evenly ;
+
 
 }
+
+
+
+
+
+
+
+
 div{
 border: solid rebeccapurple;
 width: 200px;
